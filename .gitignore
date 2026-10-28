@@ -1,0 +1,21 @@
+# 数据
+data/
+checkpoints/
+*.npz
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+wandb/
